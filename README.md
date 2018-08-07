@@ -1,4 +1,4 @@
-# Udacity_AD_Project01 (Finding Lane Lines on the Road)
+# Finding Lane Lines on the Road
 
 This project aims to perform a simple line detection on a stream of images. Those lines will be drawn onto the input stream and then written to a new video file. In this repository, 'Main.ipynp' contains all the code, 'test.mp4' is the input video and 'test_with_lines.mp4' is the output with lines.
 
